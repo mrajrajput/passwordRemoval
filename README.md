@@ -65,7 +65,7 @@ I've created this script where you will have to specify CVS and GIT parameters b
 
 > Step 2 - mention your secret files from where your secret text needs to be removed(or replaced) in conversion.sh
 
-> Step 3 - mention secret text to find in conversion.sh. Secret text will be replaced with text: ***REMOVED***.
+> Step 3 - mention secret text to find in conversion.sh. Secret text will be replaced with text: '***REMOVED***'.
 ```bash
 ./start.sh  or sh start.sh
 ```
